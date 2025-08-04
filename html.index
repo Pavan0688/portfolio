@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Rayapati Pavan | Visualization Portfolio</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Rayapati Pavan</h1>
+    <p>Aspiring Data Analyst | Storytelling Through Visuals</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Motivated fresher with a knack for turning raw data into meaningful visual stories. Skilled in Java , python. Eager to drive insights through data and design.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <div class="skill-category">
+      <h3>Tools / Languages</h3>
+      <ul>
+        <li>Python (Pandas, Matplotlib, Seaborn, Plotly)</li>
+        <li>Excel (PivotTables, Dashboards)</li>
+        <li>JavaScript, HTML, CSS</li>
+      </ul>
+    </div>
+    <div class="skill-category">
+      <h3>Other</h3>
+      <ul>
+        <li>Data Cleaning & EDA</li>
+        <li>Visual Storytelling</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project-card">
+      <img src="assets/images/retail-dashboard.png" alt="Retail Sales Dashboard">
+      <h3>Satellite lifetime prediction</h3>
+      <p>Analysis of satellite lifetime prediction through Alexnet over Linear Regression</p>
+    </div>
+
+    
+
+    <div class="project-card">
+      <img src="assets/images/ecommerce-dashboard.png" alt="E-Commerce Insights">
+      <h3>E-Commerce Insights</h3>
+      <p>Excel dashboard detailing customer behavior, top-selling categories, and demographic insights for a sample dataset.</p>
+      <a href="https://github.com/yourusername/project-3-ecommerce-analysis" target="_blank">View on GitHub</a>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Let’s connect!</p>
+    <ul>
+      <li>Email: rayapati7093269426.com</li>
+      <li>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">Your LinkedIn</a></li>
+      <li>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Rayapati Pavan. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
